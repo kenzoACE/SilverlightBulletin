@@ -1,0 +1,5 @@
+c:\users\ken\documents\visual studio 2010\Projects\Bulliten2\Bulliten2.Web\bin\Bulliten2.Web.dll
+c:\users\ken\documents\visual studio 2010\Projects\Bulliten2\Bulliten2.Web\bin\Bulliten2.Web.pdb
+c:\users\ken\documents\visual studio 2010\Projects\Bulliten2\Bulliten2.Web\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ken\documents\visual studio 2010\Projects\Bulliten2\Bulliten2.Web\obj\Debug\Bulliten2.Web.dll
+c:\users\ken\documents\visual studio 2010\Projects\Bulliten2\Bulliten2.Web\obj\Debug\Bulliten2.Web.pdb

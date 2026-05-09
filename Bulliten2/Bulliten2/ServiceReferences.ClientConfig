@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="WebServiceLiveSoap" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://fushigispace.com/faq/Bulliten/WebServiceLive.asmx"
+                binding="basicHttpBinding" bindingConfiguration="WebServiceLiveSoap"
+                contract="ServiceReference1.WebServiceLiveSoap" name="WebServiceLiveSoap" />
+        </client>
+    </system.serviceModel>
+</configuration>
